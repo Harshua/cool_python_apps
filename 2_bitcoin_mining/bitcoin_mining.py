@@ -1,4 +1,10 @@
-from hashlib import sha256
+
+fromimport wolframalpha
+
+client = wolframalpha.Client('RJJ4LP-L46WTVLTWY'
+
+
+hashlib import sha256
 MAX_NONCE = 100000000000
 
 def SHA256(text):
